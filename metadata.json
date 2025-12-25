@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Krishi Connect India",
+  "description": "A comprehensive agricultural ecosystem providing farmers with a marketplace, AI-driven crop disease detection, mandi price forecasting, labor finder, equipment rentals, and government scheme integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
